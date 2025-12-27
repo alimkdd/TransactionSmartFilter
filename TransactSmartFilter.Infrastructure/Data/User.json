@@ -1,0 +1,20 @@
+[
+  {
+    "FullName": "Ali Mokdad",
+    "Email": "ali@example.com",
+    "UserTierId": 1,
+    "CreatedAt": "2025-02-01T10:00:00Z"
+  },
+  {
+    "FullName": "Sarah Ibrahim",
+    "Email": "sarah@example.com",
+    "UserTierId": 2,
+    "CreatedAt": "2025-02-01T10:05:00Z"
+  },
+  {
+    "FullName": "Admin User",
+    "Email": "admin@example.com",
+    "UserTierId": 3,
+    "CreatedAt": "2025-02-01T10:10:00Z"
+  }
+]

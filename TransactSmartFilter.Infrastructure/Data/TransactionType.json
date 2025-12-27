@@ -1,0 +1,18 @@
+[
+  {
+    "Name": "Deposit",
+    "CreatedAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "Name": "Withdrawal",
+    "CreatedAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "Name": "Transfer",
+    "CreatedAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "Name": "Refund",
+    "CreatedAt": "2025-01-01T00:00:00Z"
+  }
+]

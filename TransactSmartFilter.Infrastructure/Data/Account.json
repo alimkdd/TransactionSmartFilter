@@ -1,0 +1,14 @@
+[
+  {
+    "AccountNumber": "ACC-1001",
+    "CreatedAt": "2025-02-01T12:00:00Z"
+  },
+  {
+    "AccountNumber": "ACC-1002",
+    "CreatedAt": "2025-02-01T12:05:00Z"
+  },
+  {
+    "AccountNumber": "ACC-2001",
+    "CreatedAt": "2025-02-01T12:10:00Z"
+  }
+]

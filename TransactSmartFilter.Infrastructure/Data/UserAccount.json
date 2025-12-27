@@ -1,0 +1,27 @@
+[
+  {
+    "UserId": 1,
+    "AccountId": 1,
+    "CreatedAt": "2025-02-01T12:15:00Z"
+  },
+  {
+    "UserId": 2,
+    "AccountId": 3,
+    "CreatedAt": "2025-02-01T12:20:00Z"
+  },
+  {
+    "UserId": 3,
+    "AccountId": 1,
+    "CreatedAt": "2025-02-01T12:30:00Z"
+  },
+  {
+    "UserId": 3,
+    "AccountId": 2,
+    "CreatedAt": "2025-02-01T12:31:00Z"
+  },
+  {
+    "UserId": 3,
+    "AccountId": 3,
+    "CreatedAt": "2025-02-01T12:32:00Z"
+  }
+]

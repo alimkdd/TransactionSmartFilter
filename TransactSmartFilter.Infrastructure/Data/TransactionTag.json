@@ -1,0 +1,32 @@
+[
+  {
+    "TransactionId": 1,
+    "TagId": 3,
+    "CreatedAt": "2025-02-05T08:01:00Z"
+  },
+  {
+    "TransactionId": 2,
+    "TagId": 1,
+    "CreatedAt": "2025-02-10T15:31:00Z"
+  },
+  {
+    "TransactionId": 3,
+    "TagId": 4,
+    "CreatedAt": "2025-02-11T09:16:00Z"
+  },
+  {
+    "TransactionId": 4,
+    "TagId": 1,
+    "CreatedAt": "2025-02-12T11:01:00Z"
+  },
+  {
+    "TransactionId": 5,
+    "TagId": 2,
+    "CreatedAt": "2025-02-13T14:41:00Z"
+  },
+  {
+    "TransactionId": 6,
+    "TagId": 1,
+    "CreatedAt": "2025-02-14T19:21:00Z"
+  }
+]

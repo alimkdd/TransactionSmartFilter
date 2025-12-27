@@ -1,0 +1,17 @@
+[
+  {
+    "Name": "Regular",
+    "Description": "Regular users with standard access, can query up to 90 days of transaction history.",
+    "CreatedAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "Name": "Premium",
+    "Description": "Premium users with extended access, can query up to 365 days of transaction history.",
+    "CreatedAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "Name": "Admin",
+    "Description": "Admin users with full access to all transactions and no date range restrictions.",
+    "CreatedAt": "2025-01-01T00:00:00Z"
+  }
+]

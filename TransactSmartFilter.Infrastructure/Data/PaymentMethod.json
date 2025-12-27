@@ -1,0 +1,18 @@
+[
+  {
+    "Name": "Card",
+    "CreatedAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "Name": "Bank Transfer",
+    "CreatedAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "Name": "Wallet",
+    "CreatedAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "Name": "Cash",
+    "CreatedAt": "2025-01-01T00:00:00Z"
+  }
+]

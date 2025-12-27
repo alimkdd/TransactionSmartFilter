@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="TransactSmartFilter.API/TransactSmartFilter.API.csproj" />
+  <Project Path="TransactSmartFilter.Application/TransactSmartFilter.Application.csproj" />
+  <Project Path="TransactSmartFilter.Domain/TransactSmartFilter.Domain.csproj" />
+  <Project Path="TransactSmartFilter.Infrastructure/TransactSmartFilter.Infrastructure.csproj" />
+</Solution>

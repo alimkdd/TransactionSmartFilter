@@ -1,0 +1,18 @@
+[
+  {
+    "Name": "Bills",
+    "CreatedAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "Name": "Groceries",
+    "CreatedAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "Name": "Salary",
+    "CreatedAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "Name": "Travel",
+    "CreatedAt": "2025-01-01T00:00:00Z"
+  }
+]
