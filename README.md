@@ -1,5 +1,4 @@
 🔍 Transaction Search & Filter API
-Overview
 
 The Transaction Search & Filter API is a robust and high-performance querying system designed to retrieve transaction data using complex filter combinations, strict business rules, and optimized database access.
 It enables users to search, filter, sort, and paginate transactions while enforcing access control, user-tier limitations, and performance constraints.
